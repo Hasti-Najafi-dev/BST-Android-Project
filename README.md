@@ -1,6 +1,6 @@
 # 🌳 Android BST Visualizer
 
-A simple Android project that demonstrates how a **Binary Search Tree (BST)** works.  
+A simple Android project that demonstrates how a **Binary Search Tree (BST) algorithm** works.  
 Users can insert numbers to build the tree and see how the search operation is performed visually.
 
 ---

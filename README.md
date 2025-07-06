@@ -18,3 +18,8 @@ Users can insert numbers to build the tree and see how the search operation is p
 - **Platform:** Android
 - **IDE:** Android Studio
 
+## ▶️ Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Hasti-Najafi-dev/BST-Android-Project.git
